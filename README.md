@@ -2,6 +2,11 @@
 
 A fully playable memory card-matching game built with **Streamlit**.
 
+---
+## 🔗 Project Link
+https://interactive-memory-challenge-system-cuj8tuhdvetu5ar6ij7ycs.streamlit.app/
+---
+
 ## Features
 - 3 difficulty levels (Easy / Medium / Hard)
 - Live timer, score, moves counter, pairs tracker
